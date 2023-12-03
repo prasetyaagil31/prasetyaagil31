@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasetyaagil31
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning all about Data Analyst
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any Data Analyst project
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/prasetyaagil31/
 
 <!---
